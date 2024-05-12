@@ -27,7 +27,8 @@ The preprocessing involves several key steps to optimize the data:
 - **Linear Regression**: Applied using `LinearRegression`, focusing on relationship modeling between features.
 - **Logistic Regression**: Implemented with `LogisticRegression`, optimizing for the regularization strength and solver type.
 - **Gaussian Naive Bayes**: Uses `GaussianNB`, suitable for distributions in the dataset and requires no configuration.
-
+### Comparison
+![Comparison](https://github.com/MohamadAbdelmoniem/Breast-Cancer-Prediction/blob/main/Comaprisons.png?raw=true)
 ### Clustering Methods
 
 - **K-Means**: Configured with `KMeans` from Scikit-learn, specifying the number of clusters and initialization method.
